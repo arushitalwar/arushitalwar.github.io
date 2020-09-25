@@ -7,7 +7,7 @@ will always work with your body type. What makes the user experience unique thou
 larger straps or even one that is a quarter of the usual size. The capability to make the backpack your own, as well as have it cater to a wider audience by making
 the straps adjustable, are just some reasons as to why it has great design. 
 
-![Backpack](backpack.png)
+![Backpack](https://raw.githubusercontent.com/arushitalwar/arushitalwar.github.io/master/_posts/backpack.png)
 
 
 
@@ -17,4 +17,4 @@ wipe falls through, this is especially difficult since the hole in the clorox bo
 since it doesn't solve the issue of what you  do when the wipe is not ready to pull. This is a recurring theme not only in wipe boxes, but also a tissue box and 
 other places where you are pulling an item out that can potentially drop back in. 
 
-![Clorox Wipe Box](wipebox.png)
+![Clorox Wipe Box](https://raw.githubusercontent.com/arushitalwar/arushitalwar.github.io/master/_posts/wipebox.png)
